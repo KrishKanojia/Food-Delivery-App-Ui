@@ -395,7 +395,7 @@ class _HomePageState extends State<HomePage> {
           },
         ),
       ),
-      body: SafeArea(
+      body: SingleChildScrollView(
         child: Column(
           children: [
             Container(
