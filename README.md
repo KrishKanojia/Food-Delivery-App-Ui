@@ -1,16 +1,26 @@
 # food_delivery_app
 
-A new Flutter project.
+<p>Sign Up Page</p>
 
-## Getting Started
+<p align="center">
+<img src="https://github.com/KrishKanojia/Food-Delivery-App-Ui/blob/main/images/Signup.jpeg" width="200" height="400" />
+</p>
 
-This project is a starting point for a Flutter application.
+<p>Sign In Page</p>
 
-A few resources to get you started if this is your first Flutter project:
+<p align="center">
+<img src="https://github.com/KrishKanojia/Food-Delivery-App-Ui/blob/main/images/Sign%20in.jpeg" width="200" height="400" />
+</p>
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+<p>Home Page</p>
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<p align="center">
+<img src="https://github.com/KrishKanojia/Food-Delivery-App-Ui/blob/main/images/homepage.jpeg" width="200" height="400" />
+</p>
+
+<p>Info Page</p>
+
+<p align="center">
+<img src="https://github.com/KrishKanojia/Food-Delivery-App-Ui/blob/main/images/Info%20Page.jpeg" width="200" height="400" />
+</p>
+
